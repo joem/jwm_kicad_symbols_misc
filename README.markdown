@@ -3,6 +3,8 @@ jwm_kicad_symbols_misc
 
 This is a collection of miscellaneous symbols for [KiCad](https://kicad-pcb.org). Currently, this is my only custom symbols library, but it's also a holding library before I can break symbols out into separate specialized libraries.
 
+(You might also be interested in my related [misc footprints library](https://github.com/joem/jwm_kicad_footprints_misc.pretty) and [misc 3D models library](https://github.com/joem/jwm_kicad_3dmodels_misc.3dshapes) for KiCad.)
+
 Symbols included in this library:
 
 Symbol name | Description
