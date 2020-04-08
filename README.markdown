@@ -17,5 +17,7 @@ Sync_Header_LZX | a LZX 14-pin sync header, made to look like the ones found in 
 
 (Yes, so far they're mostly made to look like symbols from LZX's Cadet schematics which were made in Diptrace. As I work on more circuits in the future, I'll be adding more that are not emulating LZX's parts.)
 
-Please feel free to use them as you'd like in your own projects. If they help you, I'm glad.
+For an easy preview of what these symbols look like, look in the [images](images/) folder.
+
+Please feel free to use these symbols as you'd like in your own projects. If they help you, I'm glad.
 
