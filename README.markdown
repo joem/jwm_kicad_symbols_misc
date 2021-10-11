@@ -11,6 +11,7 @@ Symbol name | Description
 ----------- | -----------
 74VHC4046N_LZX | a 74VHC4046N IC, made to look like the ones found in LZX's Cadet schematics
 Eurorack_Header_LZX | a Eurorack synth power header, made to look like the ones found in LZX's Cadet schematics
+LMH1980 | a LMH1980 sync separator IC
 LT1251_LZX | a LT1251 IC, made to look like the ones found in LZX's Cadet schematics
 SW_DPDT_LZX | a DPDT switch, made to look like the ones found in LZX's Cadet schematics
 Sync_Header_LZX | a LZX 14-pin sync header, made to look like the ones found in LZX's Cadet schematics
