@@ -11,7 +11,7 @@ Symbol name | Description
 ----------- | -----------
 74VHC4046N_LZX | a 74VHC4046N IC, made to look like the ones found in LZX's Cadet schematics
 Eurorack_Header_LZX | a Eurorack synth power header, made to look like the ones found in LZX's Cadet schematics (see note 1)
-Eurorack_Header_LZX_NC5vCvGate | a Eurorack synth power header, made to look like the ones found in LZX's Cadet schematics, with +5V, CV, and Gate permanently not connected
+Eurorack_Header_LZX_NC-5vCvGate | a Eurorack synth power header, made to look like the ones found in LZX's Cadet schematics, with +5V, CV, and Gate permanently not connected
 INA3221_Module | an INA3221 module, controlled by I2C
 INA3221_Module_NoVPU | an INA3221 module, controlled by I2C, without a VPU pin
 LMH1980 | a LMH1980 sync separator IC
@@ -20,7 +20,7 @@ SSD1306_I2C_OLED_Module | an SSD1306 I2C OLED module
 SW_DPDT_LZX | a DPDT switch, made to look like the ones found in LZX's Cadet schematics
 Sync_Header_LZX | a LZX 14-pin sync header, made to look like the ones found in LZX's Cadet schematics
 
-Note 1: Due to the way the pin stacking works in `Eurorack_Header_LZX`, if you use NC flag on any of the pins, the ERC will give you a warning that pins marked NC are connected. To get around this, use one of the `_NC...` variations that have a permanent NC on certain pins built in to the symbol.
+Note 1: Due to the way the pin stacking works in `Eurorack_Header_LZX`, if you use NC flag on any of the pins, the ERC will give you a warning that pins marked NC are connected. To get around this, use one of the `_NC-...` variations that have a permanent NC on certain pins built in to the symbol.
 
 (Yes, so far they're mostly made to look like symbols from LZX's Cadet schematics which were made in Diptrace. As I work on more circuits in the future, I'll be adding more that are not emulating LZX's parts.)
 
