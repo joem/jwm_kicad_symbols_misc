@@ -11,9 +11,9 @@ Symbol name | Description
 ----------- | -----------
 74VHC4046N_LZX | a 74VHC4046N IC, made to look like the ones found in LZX's Cadet schematics
 Eurorack_Header_LZX | a Eurorack synth power header, made to look like the ones found in LZX's Cadet schematics (see note 1)
-Eurorack_Header_LZX_NC-5vCvGate | a Eurorack synth power header, made to look like the ones found in LZX's Cadet schematics, with +5V, CV, and Gate permanently not connected
-Eurorack_Header_LZX_NC-CvGate | a Eurorack synth power header, made to look like the ones found in LZX's Cadet schematics, with CV and Gate permanently not connected
-Eurorack_Header_LZX_NC-5v | a Eurorack synth power header, made to look like the ones found in LZX's Cadet schematics, with +5V permanently not connected
+Eurorack_Header_LZX_NC-5vCvGate | same as Eurorack_Header_LZX, but with +5V, CV, and Gate permanently not connected
+Eurorack_Header_LZX_NC-CvGate | same as Eurorack_Header_LZX, but with CV and Gate permanently not connected
+Eurorack_Header_LZX_NC-5v | same as Eurorack_Header_LZX, but with +5V permanently not connected
 INA3221_Module | an INA3221 module, controlled by I2C
 INA3221_Module_NoVPU | an INA3221 module, controlled by I2C, without a VPU pin
 LMH1980 | a LMH1980 sync separator IC
