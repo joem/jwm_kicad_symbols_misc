@@ -10,6 +10,7 @@ Symbols included in this library:
 Symbol name | Description
 ----------- | -----------
 74VHC4046N_LZX | a 74VHC4046N IC, made to look like the ones found in LZX's Cadet schematics
+ADA4852-4 | a ADA4852-4 quad video rate op amp
 Eurorack_Header_LZX | a Eurorack synth power header, made to look like the ones found in LZX's Cadet schematics ([see note 1](#notes))
 Eurorack_Header_LZX_NC-5vCvGate | same as Eurorack_Header_LZX, but with +5V, CV, and Gate permanently not connected ([see note 1](#notes))
 Eurorack_Header_LZX_NC-CvGate | same as Eurorack_Header_LZX, but with CV and Gate permanently not connected ([see note 1](#notes))
@@ -18,6 +19,9 @@ INA3221_Module | an INA3221 module, controlled by I2C
 INA3221_Module_NoVPU | an INA3221 module, controlled by I2C, without a VPU pin
 LMH1980 | a LMH1980 sync separator IC
 LT1251_LZX | a LT1251 IC, made to look like the ones found in LZX's Cadet schematics
+SeeduinoXIAO-RP2040_Headers | a Seeduino XIAO RP2040 when plugged in via headers
+SeeduinoXIAO-RP2040_SMD | a Seeduino XIAO RP2040 when used as a SMD module -- has extra pins available
+SeeduinoXIAO-SAMD21_Headers | a Seeduino XIAO SAMD21 when plugged in via headers
 SSD1306_I2C_OLED_Module | an SSD1306 I2C OLED module
 SW_DPDT_LZX | a DPDT switch, made to look like the ones found in LZX's Cadet schematics
 Sync_Header_LZX | a LZX 14-pin sync header, made to look like the ones found in LZX's Cadet schematics

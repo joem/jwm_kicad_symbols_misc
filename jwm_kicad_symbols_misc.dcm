@@ -4,4 +4,25 @@ $CMP 74VHC4046N_LZX
 F https://www.mouser.com/datasheet/2/308/74vhc4046-1190440.pdf
 $ENDCMP
 #
+$CMP ADA4851-4
+D Quad Rail-to-Rail Input/Output Amplifiers, TSSOP-14
+K quad opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4807-1_4807-2_4807-4.pdf
+$ENDCMP
+#
+$CMP SeeeduinoXIAO-RP2040_Headers
+D Seeeduino XIAO RP2040 for Header Mounting
+F https://wiki.seeedstudio.com/XIAO-RP2040/
+$ENDCMP
+#
+$CMP SeeeduinoXIAO-RP2040_SMD
+D Seeeduino XIAO RP2040 for SMD Mounting
+F https://wiki.seeedstudio.com/XIAO-RP2040/
+$ENDCMP
+#
+$CMP SeeeduinoXIAO-SAMD21_Headers
+D Seeeduino XIAO SAMD21 for Header Mounting
+F https://wiki.seeedstudio.com/Seeeduino-XIAO/
+$ENDCMP
+#
 #End Doc Library
